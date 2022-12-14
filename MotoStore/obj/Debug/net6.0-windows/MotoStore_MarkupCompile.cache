@@ -1,0 +1,20 @@
+﻿MotoStore
+
+
+winexe
+C#
+.cs
+F:\New folder\Phan-mem-quan-ly-cua-hang-xe-may\MotoStore\obj\Debug\net6.0-windows\
+MotoStore
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+F:\New folder\Phan-mem-quan-ly-cua-hang-xe-may\MotoStore\App.xaml
+18-2102265383
+1882702876
+56-1260476484
+265-267154413
+Resources\MainResource.xaml;Views\Container.xaml;Views\Pages\DashboardPage.xaml;Views\Pages\DataPage.xaml;Views\Pages\DataPagePages\CustomerListPage.xaml;Views\Pages\DataPagePages\EmployeeListPage.xaml;Views\Pages\DataPagePages\MotoListPage.xaml;Views\Pages\DataPagePages\SupplierListPage.xaml;Views\Pages\IOPage.xaml;Views\Pages\IOPagePages\IOAddSP.xaml;Views\Pages\IOPagePages\IOHoaDonPage.xaml;Views\Pages\IOPagePages\IOKhachHangPage.xaml;Views\Pages\IOPagePages\IONhaSXPage.xaml;Views\Pages\IOPagePages\IOSanPhamPage.xaml;Views\Pages\ReportPage.xaml;Views\Pages\SettingsPage.xaml;Views\UserControls\ControlBarUserControl.xaml;Views\Windows\LoginWindow.xaml;
+
+False
+
